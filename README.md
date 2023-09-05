@@ -1,6 +1,6 @@
   ### Hi there, Im Ester 👋
 
-- 🌱 I’m currently learning JavaScript; HTML; CSS; SQL;
+- 🌱 I’m currently learning JavaScript; HTML; CSS; Python, SQL;
 - 😄 Pronouns: She/Her
 
 <div style="display: inline_block"><br>
